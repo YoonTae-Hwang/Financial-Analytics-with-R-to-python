@@ -1,2 +1,2 @@
 # Financial-Analytics-with-R-to-python
-R Code transform to Python Code
+R Code convert to Python Code
